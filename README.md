@@ -5,6 +5,6 @@ Data Science Portfolio
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
 * Construct a dashboard for reporting purpose 
-* Develop a model to predict if an existing client will become churner
+* Develop a model to predict if an existing client will become churner, based on services signed up, account information and demographic information
 
 ![](/images/tenure_client_vs_churner.png)
