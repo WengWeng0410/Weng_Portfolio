@@ -7,4 +7,4 @@ Data Science Portfolio
 * Construct a dashboard for reporting purpose 
 * Develop a model to predict if an existing client will become churner
 
-![](/images/client_vs_churner.png)
+![](/images/tenure_client_vs_churner.png)
