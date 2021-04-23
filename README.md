@@ -8,3 +8,12 @@ Data Science Portfolio
 * Develop a model to predict if an existing client will become churner, based on services signed up, account information and demographic information
 
 ![](/images/tenure_client_vs_churner.png)
+
+
+# [Project 2: HR Churn Analytic Analytic: Project Overview)](https://github.com/WengWeng0410/HR_Churn_Analytic)
+* Perform data exploratory on the features in the data
+* Perform data cleaning on the dataset 
+* Construct a dashboard for reporting purpose 
+* Develop a model to predict if an existing employee will leave the company, based on department, working hours, number of project etc
+
+![](/images/tenure_client_vs_churner.png)
