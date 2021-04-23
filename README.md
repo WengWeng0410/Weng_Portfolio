@@ -16,4 +16,4 @@ Data Science Portfolio
 * Construct a dashboard for reporting purpose 
 * Develop a model to predict if an existing employee will leave the company, based on department, working hours, number of project etc
 
-![](/images/tenure_client_vs_churner.png)
+![](/images/Exist_vs_Left_Dept.png)
