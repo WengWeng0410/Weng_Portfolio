@@ -1,7 +1,7 @@
 # Weng_Portfolio
 Data Science Portfolio
 
-# [Project 1: Telco Customer Churn Analytic: Project Overview)](https://github.com/WengWeng0410/telco_churn_analytic)
+# [Project 1: Telco Customer Churn Analytic: Project Overview](https://github.com/WengWeng0410/telco_churn_analytic)
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
 * Construct a dashboard for reporting purpose 
@@ -10,7 +10,7 @@ Data Science Portfolio
 ![](/images/tenure_client_vs_churner.png)
 
 
-# [Project 2: HR Churn Analytic: Project Overview)](https://github.com/WengWeng0410/HR_Churn_Analytic)
+# [Project 2: HR Churn Analytic: Project Overview](https://github.com/WengWeng0410/HR_Churn_Analytic)
 * Perform data exploratory on the features in the data
 * A real world dataset
 * Construct a dashboard for reporting purpose 
