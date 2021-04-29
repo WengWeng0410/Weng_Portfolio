@@ -17,3 +17,11 @@ Data Science Portfolio
 * Develop a model to predict if an existing employee will leave the company, based on department, working hours, number of project etc
 
 ![](/images/Exist_vs_Left_Dept.png)
+
+# [Project 3: Sales Prediction Analytic: Project Overview](https://github.com/WengWeng0410/Sales_Prediction_Analytic)
+This is a real world dataset provided during the Data Science 360 training. It is a dataset that recording the items sold (sales) based on the budget allocated for placing ads in google, facebook and instagram. Other than that, it also recording the areas and size of the market. Hence, in this project, the goal is to develop a prediction model to predict the sales of a new product based on given budget for ads, size and location of the market. 
+
+* Perform data exploratory on the features in the data
+* Develop a model to predict if the sales of a new product based on the budget allocated for google, facebook and instagram ads, and the location and size of the market
+
+![](/images/Unit_Sold_vs_Ads.png)
