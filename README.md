@@ -25,3 +25,9 @@ This is a real world dataset provided during the Data Science 360 training. It i
 * Develop a model to predict if the sales of a new product based on the budget allocated for google, facebook and instagram ads, and the location and size of the market
 
 ![](/images/Unit_Sold_vs_Ads.png)
+
+
+# [Project 3: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
+This is a dataset recording various crimes reported in Chicago from the years 2012 to early of 2017 which is avaiable at Kaggle. With this data, visualization can be done to identify which crime occurs the most, where is the location, how season affects the crime rate as well as the arrest statistic. 
+
+![](/images/overall_crime_20122017.png)
