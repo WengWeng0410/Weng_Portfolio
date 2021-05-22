@@ -27,7 +27,7 @@ This is a real world dataset provided during the Data Science 360 training. It i
 ![](/images/Unit_Sold_vs_Ads.png)
 
 
-# [Project 3: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
+# [Project 4: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
 This is a dataset recording various crimes reported in Chicago from the years 2012 to early of 2017 which is avaiable at Kaggle. With this data, visualization can be done to visualize how the crime occurs accorss the years, identify which crime occurs the most, where is the location, how season affects the crime rate as well as the arrest statistic. 
 
 ![](/images/overall_crime_20122017.png)
