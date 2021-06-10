@@ -4,7 +4,7 @@ Data Science Portfolio
 # [Project 1: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/Credit_Card_Churn_Analytic)
 Customer retention is cruicial in different businesses as aquiring new customers is often more costly than keeping existing customers. In this project, the aim is to predict if existing customers of a bank will leave its credit card services. Before this a customer leave, the bank can take proactive action so that the customers are continue the credit card service with the bank.
 
-In this project a prediction model is developed to predict if a customer will churn based on customers' age, gender, tenure etc (refer to the following sections for more information). It is important to identify if a customer will churn in advanced so that the bank can take necessary action (promotion) to retain the customer. 
+In this project a prediction model is developed to predict if a customer will churn based on customers' age, gender, tenure etc (refer to the following sections for more information). It is important to identify if a customer will churn in advanced so that the bank can take necessary action (promotion) to retain the customer. Hence, accuracy (High True Positive and low False Positive values) and recall (High True Positive and Low False Negative values) are both important. With low recall value, high False Negative prediction, i.e, predicted a customer that will leave as a loyal customer, the conseqence can be very bad to the bank as higher cost is needed to acquire new customer than maintaining existing customer. 
 
 ![](/images/31.model_performance_SMOTE.png)
 
