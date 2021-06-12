@@ -1,4 +1,4 @@
-# Weng_Portfolio
+# Cheng Weng's Portfolio
 Data Science Portfolio
 
 # [Project 1: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/Credit_Card_Churn_Analytic)
