@@ -49,6 +49,8 @@ This is a dataset recording various crimes reported in Chicago from the years 20
 ![](/images/overall_crime_20122017.png)
 
 # [Project 6: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
-This is the data set on the medical cost treatment of different patients. In this project, there is no medical history data. However, it consists information of age, region, bmi, gender, smoker or non smoker and charges which can be analysed and to develop a model to predict medical cost charges.
+This is the data set on the medical cost treatment of different patients. In this project, there is no medical history data. However, it consists information of age, region, bmi, gender, smoker or non smoker and charges which can be analysed and to develop a model to predict medical cost charges. <br>
+
+**Business Question**: What is the predicted medical cost based on patient's habbit and demographic info?
 
 ![](/images/6.ICP_patient_bmiCat_cost.png)
