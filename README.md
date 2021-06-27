@@ -2,12 +2,11 @@
 Data Science Portfolio
 
 # [Project 1: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/Credit_Card_Churn_Analytic)
-Customer retention is cruicial in different businesses as aquiring new customers is often more costly than keeping existing customers. In this project, the aim is to predict if existing customers of a bank will leave its credit card services. Before this a customer leave, the bank can take proactive action so that the customers are continue the credit card service with the bank.
+Customer retention is crucial in different businesses as acquiring new customers is often costlier than keeping existing customers. In this project, the aim is to predict if existing customers of a bank will leave its credit card services. Before this a customer leave, the bank can take proactive action so that the customers are continue the credit card service with the bank.
 
-In this project a prediction model is developed to predict if a customer will churn based on their credit card account information and spending behaviour. It is important to identify if a customer will churn in advanced so that the bank can take necessary action (promotion) to retain the customer. Hence, accuracy (High True Positive and low False Positive values) and recall (High True Positive and Low False Negative values) are both important. With low recall value, high False Negative prediction, i.e, predicted a customer that will leave as a loyal customer, the conseqence can be very bad to the bank as higher cost is needed to acquire new customer than maintaining existing customer. 
+In this project a prediction model is developed to predict if a customer will churn based on their credit card account information and spending behaviour. It is important to identify if a customer will churn in advanced so that the bank can take necessary action (promotion etc) to retain the customer. Hence, accuracy (High True Positive and low False Positive values) and recall (High True Positive and Low False Negative values) are both important. With low recall value, high False Negative prediction, i.e., predicted a customer that will leave as a loyal customer, the consequence can be very bad to the bank as higher cost is needed to acquire new customer than maintaining existing customer. 
 
 **Business Question**: How likely is a customer will churn based on their spending and credit card account information?
-
 
 ![](/images/31.model_performance_SMOTE.png)
 
@@ -20,7 +19,6 @@ In this project a prediction model is developed to predict if a customer will ch
 **Business Question**: How likely is a customer will churn based on their subscription plan?
 
 ![](/images/tenure_client_vs_churner.png)
-
 
 # [Project 3: HR Churn Analytic: Project Overview](https://github.com/WengWeng0410/HR_Churn_Analytic)
 * Perform data exploratory on the features in the data
@@ -41,7 +39,6 @@ This is a real world dataset provided during the Data Science 360 training. It i
 **Business Question**: What is the sales forecast after advertisement expenditure on different advertisement platforms?
 
 ![](/images/Unit_Sold_vs_Ads.png)
-
 
 # [Project 5: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
 This is a dataset recording various crimes reported in Chicago from the years 2012 to early of 2017 which is avaiable at Kaggle. With this data, visualization can be done to visualize how the crime occurs accorss the years, identify which crime occurs the most, where is the location, how season affects the crime rate as well as the arrest statistic. 
