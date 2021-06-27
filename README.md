@@ -21,12 +21,19 @@ In this project a prediction model is developed to predict if a customer will ch
 ![](/images/tenure_client_vs_churner.png)
 
 # [Project 3: HR Churn Analytic: Project Overview](https://github.com/WengWeng0410/HR_Churn_Analytic)
+
+In this project, a model is built to predict if an employee of a company is at risk of leaving the company. It should be noted that it costly for a company to look suitable candidate to replace that employee, especially for the executives or high pay employees. This is due to the amount of time needed to conduct interview, training needed for the new employee as well as reduce of productivity for few months for the employee to get familiar with the new role. 
+
+Hence, understanding why and when an employee is likely to leave can improve the employee retention as well as possibly in planning new hiring in advance. 
+
+**Business Question**: How likely is an employee will churn depending on their workload and experience in a company?
+
+Works done as follows:
+
 * Perform data exploratory on the features in the data
 * A real world dataset
 * Construct a dashboard for reporting purpose 
 * Develop a model to predict if an existing employee will leave the company, based on department, working hours, number of project etc
-
-**Business Question**: How likely is an employee will churn depending on their workload and experience in a company?
 
 ![](/images/Exist_vs_Left_Dept.png)
 
