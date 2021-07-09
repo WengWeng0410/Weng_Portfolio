@@ -10,7 +10,7 @@ In this project a prediction model is developed to predict if a customer will ch
 
 ![](/images/31.model_performance_SMOTE.png)
 
-# [Project 2: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/House_Price_Prediction_Analytic)
+# [Project 2: House Price Prediction Analytic: Project Overview](https://github.com/WengWeng0410/House_Price_Prediction_Analytic)
 
 In the housing market, comparative market analysis (CMA) is used to estimate value of a house with the aim of helping the sellers to set the house prices as well as buyers to make competitive offers. CMA is done by considering a number of features, such as location, years of the house, sq ft, view, grades and other features.
 
