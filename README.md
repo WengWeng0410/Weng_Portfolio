@@ -64,7 +64,7 @@ This is a dataset recording various crimes reported in Chicago from the years 20
 
 ![](/images/overall_crime_20122017.png)
 
-# [Project 6: Medical Cost Prediction Analytic: Project Overview](https://github.com/WengWeng0410/MedicalCostPrediction)
+# [Project 7: Medical Cost Prediction Analytic: Project Overview](https://github.com/WengWeng0410/MedicalCostPrediction)
 This is the data set on the medical cost treatment of different patients. In this project, there is no medical history data. However, it consists information of age, region, bmi, gender, smoker or non smoker and charges which can be analysed and to develop a model to predict medical cost charges. <br>
 
 **Business Question**: What is the predicted medical cost based on patient's habit and demographic info?
