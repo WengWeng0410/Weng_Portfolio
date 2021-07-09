@@ -18,7 +18,7 @@ In this project, a machine learning model is developed to predict housing prices
 
 Prior to the model development, EDA is carried out to understand and extract insights from the features. This is also to identify features that are valuable to include in the prediction model.
 
-![](/images/31.model_performance_SMOTE.png)
+![](/images/7.HSP_grade.png)
 
 **Business Question**: What is the selling price of a house based on given a set of house' features?
 
