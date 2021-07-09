@@ -10,7 +10,19 @@ In this project a prediction model is developed to predict if a customer will ch
 
 ![](/images/31.model_performance_SMOTE.png)
 
-# [Project 2: Telco Customer Churn Analytic: Project Overview](https://github.com/WengWeng0410/telco_churn_analytic)
+# [Project 2: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/House_Price_Prediction_Analytic)
+
+In the housing market, comparative market analysis (CMA) is used to estimate value of a house with the aim of helping the sellers to set the house prices as well as buyers to make competitive offers. CMA is done by considering a number of features, such as location, years of the house, sq ft, view, grades and other features.
+
+In this project, a machine learning model is developed to predict housing prices in King County, USA based on the properties' features such as sq ft, number of bedrooms and bathrooms, grades of the properties, view, etc.
+
+Prior to the model development, EDA is carried out to understand and extract insights from the features. This is also to identify features that are valuable to include in the prediction model.
+
+![](/images/31.model_performance_SMOTE.png)
+
+**Business Question**: What is the selling price of a house based on given a set of house' features?
+
+# [Project 3: Telco Customer Churn Analytic: Project Overview](https://github.com/WengWeng0410/telco_churn_analytic)
 * Perform data exploratory on the features in the data
 * Perform data cleaning on the dataset 
 * Construct a dashboard for reporting purpose 
@@ -20,7 +32,7 @@ In this project a prediction model is developed to predict if a customer will ch
 
 ![](/images/tenure_client_vs_churner.png)
 
-# [Project 3: HR Churn Analytic: Project Overview](https://github.com/WengWeng0410/HR_Churn_Analytic)
+# [Project 4: HR Churn Analytic: Project Overview](https://github.com/WengWeng0410/HR_Churn_Analytic)
 
 In this project, a model is built to predict if an employee of a company is at risk of leaving the company. It should be noted that it costly for a company to look suitable candidate to replace that employee, especially for the executives or high pay employees. This is due to the amount of time needed to conduct interview, training needed for the new employee as well as reduce of productivity for few months for the employee to get familiar with the new role. 
 
@@ -37,7 +49,7 @@ Works done as follows:
 
 ![](/images/Exist_vs_Left_Dept.png)
 
-# [Project 4: Sales Prediction Analytic: Project Overview](https://github.com/WengWeng0410/Sales_Prediction_Analytic)
+# [Project 5: Sales Prediction Analytic: Project Overview](https://github.com/WengWeng0410/Sales_Prediction_Analytic)
 This is a real world dataset provided during the Data Science 360 training. It is a dataset that recording the items sold (sales) based on the budget allocated for placing ads in google, facebook and instagram. Other than that, it also recording the areas and size of the market. Hence, in this project, the goal is to develop a prediction model to predict the sales of a new product based on given budget for ads, size and location of the market. 
 
 * Perform data exploratory on the features in the data
@@ -47,7 +59,7 @@ This is a real world dataset provided during the Data Science 360 training. It i
 
 ![](/images/Unit_Sold_vs_Ads.png)
 
-# [Project 5: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
+# [Project 6: Chicago Crime Analytic: Project Overview](https://github.com/WengWeng0410/Chicago_Crime_Analytic)
 This is a dataset recording various crimes reported in Chicago from the years 2012 to early of 2017 which is avaiable at Kaggle. With this data, visualization can be done to visualize how the crime occurs accorss the years, identify which crime occurs the most, where is the location, how season affects the crime rate as well as the arrest statistic. 
 
 ![](/images/overall_crime_20122017.png)
