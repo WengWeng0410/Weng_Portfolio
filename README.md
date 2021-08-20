@@ -70,3 +70,10 @@ This is the data set on the medical cost treatment of different patients. In thi
 **Business Question**: What is the predicted medical cost based on patient's habit and demographic info?
 
 ![](/images/6.ICP_patient_bmiCat_cost.png)
+
+# [Project 8: Bike Renting Forecast Analytic: Project Overview](https://github.com/WengWeng0410/BikeRentingForecast)
+This is a notebook on predicting total rentals of bike renting system. Bike renting system is a system for bicyles renting, including processes getting membership, rental and bike return through kiosk located throughout a city. Data generated (date, season, wind speed, temperature, humidity etc) from this system is used to predict the number of future rental. <br>
+
+**Business Question**: What is the predicted number of bike rental given weather data? 
+
+![](/images/6.ICP_patient_bmiCat_cost.png)
