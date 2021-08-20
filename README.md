@@ -76,4 +76,4 @@ This is a notebook on predicting total rentals of bike renting system. Bike rent
 
 **Business Question**: What is the predicted number of bike rental given weather data? 
 
-![](/images/6.ICP_patient_bmiCat_cost.png)
+![](/images/6.BRF_hourVSCount_season)
