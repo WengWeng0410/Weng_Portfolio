@@ -4,11 +4,11 @@ Data Science Portfolio
 # [Project 1: Legoland Malaysia Review Analysis](https://github.com/WengWeng0410/Legoland-Malaysia-Review)
 Sentiment analysis can be a key indicator of customer satisfcation or customer experience on the product or services that they consumed. In fact, customer experience is the key to business success. With a positive experience, more than 85% of customer will return or purchase more. However, a bad experience may result a drop of a product or brand. Hence, poor customer experiences can be costly.
 
-In this project, reviews on the visitation experience to Legoland Malaysia are analyzed. Suggestions on the change on the business are also provided based on the findings from the analysis.
+In this project, reviews (crawl from TripAdvisor) on the visitation experiences to Legoland Malaysia are analyzed. Suggestions on the change on the business are also provided based on the findings from the analysis.
 
 **Business Question**: What are the topics commented by the visitors after visitation to Legoland Malaysia? And what are the sentiments of the visitors towards experiences with Legoland Malaysia?
  
-![](/images/KeywordsforEachTopic.PNG)
+![](/images/Topic_Distribution.png)
 
 # [Project 2: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/Credit_Card_Churn_Analytic)
 Customer retention is crucial in different businesses as acquiring new customers is often costlier than keeping existing customers. In this project, the aim is to predict if existing customers of a bank will leave its credit card services. Before this a customer leave, the bank can take proactive action so that the customers are continue the credit card service with the bank.
