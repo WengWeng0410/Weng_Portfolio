@@ -1,7 +1,7 @@
 # Cheng Weng's Portfolio
 Data Science Portfolio
 
-# [Project 1: Legoland Malaysia Review Analysis](https://github.com/WengWeng0410/Legoland-Malaysia-Review)
+# [Project 1: Legoland Malaysia Review Analysis: Project Overview](https://github.com/WengWeng0410/Legoland-Malaysia-Review)
 Sentiment analysis can be a key indicator of customer satisfcation or customer experience on the product or services that they consumed. In fact, customer experience is the key to business success. With a positive experience, more than 85% of customer will return or purchase more. However, a bad experience may result a drop of a product or brand. Hence, poor customer experiences can be costly.
 
 In this project, reviews (scrape from TripAdvisor) on the visitation experiences to Legoland Malaysia are analyzed. Suggestions on the change on the business are also provided based on the findings from the analysis.
