@@ -8,7 +8,7 @@ In this project, reviews on the visitation experience to Legoland Malaysia are a
 
 **Business Question**: What are the topics commented by the visitors after visitation to Legoland Malaysia? And what are the sentiments of the visitors towards experiences with Legoland Malaysia?
  
-![](/images/KeywordsforEachTopic.png)
+![](/images/KeywordsforEachTopic.PNG)
 
 # [Project 2: Credit Card Churn Analytic: Project Overview](https://github.com/WengWeng0410/Credit_Card_Churn_Analytic)
 Customer retention is crucial in different businesses as acquiring new customers is often costlier than keeping existing customers. In this project, the aim is to predict if existing customers of a bank will leave its credit card services. Before this a customer leave, the bank can take proactive action so that the customers are continue the credit card service with the bank.
